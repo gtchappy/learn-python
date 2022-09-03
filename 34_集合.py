@@ -69,6 +69,6 @@ print(f"集合内的元素数量有：{num}个")  # 何并去重再算的
 # 集合的遍历
 # 集合不支持下标索引，不能用while循环
 # 可以用for循环
-set1 = {1, 2, 3, 4, 5, 6}
+set1 = {1, 2, 3, 4, 5, 6, 6}
 for element in set1:
     print(f"集合的元素有：{element}")
